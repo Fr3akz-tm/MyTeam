@@ -9,6 +9,8 @@ public class MainApp {
 		System.out.println("== " + player);
 		player = new Player(4, "Hinteregger", "Defense");
 		System.out.println("== " + player);
+		player = new Player (8, "Baumgartner", "Midlefield");
+		System.out.println("== " + player);
 	}
 
 }
