@@ -14,6 +14,6 @@ public class MainApp {
 		System.out.println("== " + player);
 		System.out.println("nigger wanna pop me");
 		System.out.println("theo wanna pop me");
+		System.out.println("hello nigers");
 	}
-
 }
