@@ -13,6 +13,7 @@ public class MainApp {
 		player = new Player (7, "Baumgartlingerner", "Midlefield");
 		System.out.println("== " + player);
 		System.out.println("nigger wanna pop me");
+		System.out.println("helo");
 	}
 
 }
